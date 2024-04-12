@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"types.h": "c",
+		"ipc.h": "c",
+		"initialization.h": "c",
+		"producer_consumer.h": "c"
+	}
+}

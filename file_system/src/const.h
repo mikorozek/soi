@@ -1,0 +1,10 @@
+#ifndef CONST_H
+#define CONST_H
+
+#define MAX_FILE_SIZE 0x2800
+#define DATA_BLOCK_SIZE 0x1000
+#define MAX_FILE_AMOUNT 0x28
+#define MAX_FILENAME_LENGTH 0x20
+#define DATA_BLOCK_AMOUNT 0x50
+
+#endif

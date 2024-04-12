@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"random": "c",
+		"stdio.h": "c",
+		"section_getters.h": "c"
+	}
+}
